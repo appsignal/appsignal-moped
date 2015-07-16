@@ -1,5 +1,4 @@
 require 'rubygems'
-require 'active_support/notifications'
 require 'appsignal-moped'
 
 require 'pry'
